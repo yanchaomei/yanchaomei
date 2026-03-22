@@ -29,23 +29,20 @@ RDMA / CXL / PMEM         Serving infrastructure      Agentic workflows
 
 ### Open Source
 
-Contributions to production infrastructure used at scale:
-
-| Project | What I Worked On |
-|---------|-----------------|
-| [**RocksDB**](https://github.com/facebook/rocksdb) | Storage engine performance optimization |
-| [**Mooncake**](https://github.com/kvcache-ai/Mooncake) | Transfer engine, KVCache scheduling for LLM serving |
-| [**Apache Kvrocks**](https://github.com/apache/kvrocks) | Storage engine internals |
-| [**OpenMLDB**](https://github.com/4paradigm/OpenMLDB) | Database kernel for ML feature platform |
-| [**ColossalAI**](https://github.com/hpcaitech/ColossalAI) | Distributed training framework |
-| [**Kmesh**](https://github.com/kmesh-net/kmesh) | eBPF-based kernel-native service mesh |
-| [**LightGBM**](https://github.com/microsoft/LightGBM) | ML framework contributions |
+| Project | What I Did |
+|---------|-----------|
+| [**Apache RocketMQ**](https://github.com/apache/rocketmq-clients) | Built the Python client from scratch — RPC layer, Producer, Simple Consumer, MessageIdCodec (8 merged PRs, GSoC 2023) |
+| [**DLedger**](https://github.com/openmessaging/dledger) | Implemented Snapshot support for Raft-based consensus library |
+| [**Kmesh**](https://github.com/kmesh-net/kmesh) | Unit test framework proposal + XDP test for eBPF service mesh |
+| [**Mooncake**](https://github.com/kvcache-ai/Mooncake) | Contributing to KVCache scheduling for LLM serving (Kimi) |
+| [**OpenTenBase**](https://github.com/OpenTenBase/OpenTenBase) | Slow SQL diagnostics for distributed HTAP database |
+| [**Curve**](https://github.com/opencurve/curve) | Partition cleanup on persistence failure |
+| [**HugeGraph AI**](https://github.com/apache/incubator-hugegraph-ai) | RAG function unit tests |
 
 ### Selected Projects
 
-- **[Mooncake KVCache](https://github.com/kvcache-ai/Mooncake)** — Working on the serving platform behind Kimi. Focused on transfer engine and KV Cache disaggregation for efficient LLM inference.
 - **[LevelDB-BF-Index](https://github.com/yanchaomei/LevelDB-BF-Index)** — Bloom filter index optimization for LSM-tree based storage.
-- **3R-Memory-Manager** — Custom OS memory management with a novel 3R allocation strategy. National OS competition project.
+- **[Mooncake](https://github.com/kvcache-ai/Mooncake)** — Contributing to the LLM serving platform behind Kimi. Focused on KV Cache disaggregation.
 
 ### What I Care About
 
