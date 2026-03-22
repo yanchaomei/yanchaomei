@@ -17,15 +17,9 @@ CS grad student at USTC. Open-source contributor. Builder.
 
 ### Technical Themes
 
-```
-Systems Layer              AI Infrastructure           Frontier
-─────────────────          ─────────────────           ─────────────────
-Storage engines            LLM inference optimization  Agent memory systems
-KV stores (LSM / B-Tree)  KV Cache scheduling         Retrieval acceleration
-Transaction processing     Distributed training        Multimodal agents
-Disaggregated memory       Video generation systems    Research agents
-RDMA / CXL / PMEM         Serving infrastructure      Agentic workflows
-```
+<picture>
+  <img alt="Technical Themes" src="tech-themes.svg" width="100%">
+</picture>
 
 ### Open Source
 
