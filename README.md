@@ -45,7 +45,7 @@ Contributions to production infrastructure used at scale:
 
 - **[Mooncake KVCache](https://github.com/kvcache-ai/Mooncake)** — Working on the serving platform behind Kimi. Focused on transfer engine and KV Cache disaggregation for efficient LLM inference.
 - **[LevelDB-BF-Index](https://github.com/yanchaomei/LevelDB-BF-Index)** — Bloom filter index optimization for LSM-tree based storage.
-- **[3R-Memory-Manager](https://github.com/yanchaomei/3R-Memory-Manager)** — Custom OS memory management with a novel 3R allocation strategy. National OS competition project.
+- **3R-Memory-Manager** — Custom OS memory management with a novel 3R allocation strategy. National OS competition project.
 
 ### What I Care About
 
