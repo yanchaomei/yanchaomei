@@ -18,7 +18,7 @@ CS grad student at USTC. Open-source contributor. Builder.
 ### Technical Themes
 
 <picture>
-  <img alt="Technical Themes" src="tech-themes.svg" width="100%">
+  <img alt="Technical Themes" src="tech-themes.svg?v=2" width="100%">
 </picture>
 
 ### Open Source
